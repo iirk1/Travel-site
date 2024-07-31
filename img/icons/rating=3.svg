@@ -1,0 +1,42 @@
+<svg width="88.000000" height="16.000000" viewBox="0 0 88 16" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip21_427">
+			<rect id="system/star-fill" rx="-0.500000" width="15.000000" height="15.000000" transform="translate(0.500000 0.500000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip21_431">
+			<rect id="system/star-fill" rx="-0.500000" width="15.000000" height="15.000000" transform="translate(18.500000 0.500000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip21_435">
+			<rect id="system/star-fill" rx="-0.500000" width="15.000000" height="15.000000" transform="translate(36.500000 0.500000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip21_439">
+			<rect id="system / star-line" rx="-0.500000" width="15.000000" height="15.000000" transform="translate(54.500000 0.500000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip21_443">
+			<rect id="system / star-line" rx="-0.500000" width="15.000000" height="15.000000" transform="translate(72.500000 0.500000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<rect id="system/star-fill" rx="-0.500000" width="15.000000" height="15.000000" transform="translate(0.500000 0.500000)" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip21_427)">
+		<path id="Vector" d="M8 12.17L3.29 14.8L4.34 9.52L0.39 5.86L5.74 5.22L8 0.33L10.25 5.22L15.6 5.86L11.65 9.52L12.7 14.8L8 12.17Z" fill="#FFA800" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+	<rect id="system/star-fill" rx="-0.500000" width="15.000000" height="15.000000" transform="translate(18.500000 0.500000)" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip21_431)">
+		<path id="Vector" d="M26 12.17L21.29 14.8L22.34 9.52L18.39 5.86L23.74 5.22L26 0.33L28.25 5.22L33.6 5.86L29.65 9.52L30.7 14.8L26 12.17Z" fill="#FFA800" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+	<rect id="system/star-fill" rx="-0.500000" width="15.000000" height="15.000000" transform="translate(36.500000 0.500000)" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip21_435)">
+		<path id="Vector" d="M44 12.17L39.29 14.8L40.34 9.52L36.39 5.86L41.74 5.22L44 0.33L46.25 5.22L51.6 5.86L47.65 9.52L48.7 14.8L44 12.17Z" fill="#FFA800" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+	<rect id="system / star-line" rx="-0.500000" width="15.000000" height="15.000000" transform="translate(54.500000 0.500000)" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip21_439)">
+		<path id="Vector" d="M62 12.17L57.29 14.8L58.34 9.52L54.39 5.86L59.74 5.22L62 0.33L64.25 5.22L69.6 5.86L65.65 9.52L66.7 14.8L62 12.17ZM62 10.64L64.83 12.23L64.19 9.04L66.58 6.84L63.35 6.46L62 3.51L60.64 6.46L57.41 6.84L59.8 9.04L59.16 12.23L62 10.64Z" fill="#FFA800" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+	<rect id="system / star-line" rx="-0.500000" width="15.000000" height="15.000000" transform="translate(72.500000 0.500000)" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip21_443)">
+		<path id="Vector" d="M80 12.17L75.29 14.8L76.34 9.52L72.39 5.86L77.74 5.22L80 0.33L82.25 5.22L87.6 5.86L83.65 9.52L84.7 14.8L80 12.17ZM80 10.64L82.83 12.23L82.19 9.04L84.58 6.84L81.35 6.46L80 3.51L78.64 6.46L75.41 6.84L77.8 9.04L77.16 12.23L80 10.64Z" fill="#FFA800" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+</svg>
